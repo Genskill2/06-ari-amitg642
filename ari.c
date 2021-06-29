@@ -1,6 +1,7 @@
  #include <stdio.h>
 #include<ctype.h>
 #include<math.h>
+#include <cs50.h>
 
 string ari(string s)
 {int l=s.size();
